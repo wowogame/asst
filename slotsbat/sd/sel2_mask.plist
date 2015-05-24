@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>sel2_mask.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{128,256}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{128,256}}</string>
+                <key>sourceSize</key>
+                <string>{128,256}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>sel2_mask.pvr.ccz</string>
+            <key>size</key>
+            <string>{132,260}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:3c44dc3e46d76105bc810fc16092090f:f4a55b4bfdad659410e5cc040f5f257e:6e5f17c0ddfd0422969aa0f31ced1fe1$</string>
+            <key>textureFileName</key>
+            <string>sel2_mask.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>
